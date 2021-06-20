@@ -1,0 +1,6 @@
+{
+   "name": "MAR",
+   "description": "Marketplace",
+   "image": "https://ipfs.io/ipfs/0xfb27616944af34F1371165ED0f983A3da959FE28",
+
+}
