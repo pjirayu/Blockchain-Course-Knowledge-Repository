@@ -1,0 +1,20 @@
+1.
+Problem = Latency
+Commit fraud (cheat) = Hide the transaction
+
+2.
+Problem = more Latency
+Cf = harder bcuz there is cross-checking between 2 ledgers
+
+3. (1)
+Problem = If there are a lot of blocks and each block is equal, single ledger can't check block to whom owns the once. 
+Cf = The ledger can send any the user with equal amount of block but that block is not own there.
+
+4. (2)
+Problem = Latency of cross-checking between two ledger
+Cf = the cheating is harder than (3) bcuz two ledger have to cross-checking the tranactions block that is corresponding or not?
+moreover, two ledger might note not matching bcuz some ledger wanna cheat.
+
+5.
+- every block have to check altogether, can't add or substract amount (imutability) in each block until there are transaction required and every block have to cooperate checking.
+- physicial issues (e.g. privacy)
