@@ -6,7 +6,7 @@ The group project as attached in this repository it's applied from ERC20 standar
 
 This repo is the fulfillment of course documents and project assigned in Blockchain course (109.2【工管系】IM6313701 區塊鏈理論與實務 Theory and Practice of Blockchain), Taiwan Tech.
 ```
-Contributor on the simple Monster Protocol games project
+Contributors on the simple Monster Protocol games project
 Jirayu Petchhan                 D10907801
 Supitchar Tatiyathavornkul 	M10918803
 Tanaporn Chaivutitorn      	M10921817
