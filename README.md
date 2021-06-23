@@ -7,7 +7,7 @@ This IDE is open-source IDE for everyone able to access on internet website. Mor
 The group project as attached in this repository it's applied from ERC20 standard solidity source code for minting the token games to show the concept how to modify the code simply. 
 
 ```
-Contributor on the Simple Monster Protocol games project
+Contributor on the simple Monster Protocol games project
 Jirayu Petchhan                 D10907801
 Supitchar Tatiyathavornkul 	M10918803
 Tanaporn Chaivutitorn      	M10921817
