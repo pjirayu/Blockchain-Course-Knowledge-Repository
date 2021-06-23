@@ -8,7 +8,7 @@ The group project as attached in this repository it's applied from ERC20 standar
 
 ```
 Contributor on the Monster Protocol games project
-Jirayu Petchhan    		    D10907801
+Jirayu Petchhan    		  D10907801
 Supitchar Tatiyathavornkul 	M10918803
 Tanaporn Chaivutitorn      	M10921817
 ```
